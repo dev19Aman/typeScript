@@ -1,0 +1,3 @@
+This means that your existing working JavaScript code is also TypeScript code. The main benefit of TypeScript is that it can highlight unexpected behavior in your code, lowering the chance of bugs.
+
+TypeScript is a typed superset of JavaScript.
